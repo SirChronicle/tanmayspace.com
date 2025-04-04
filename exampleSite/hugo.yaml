@@ -134,7 +134,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Tanmay Sharma."
+    title: "Tanmay."
     subtitle: "I protect systems by hacking them first."
     content: "A passionate cybersecurity agent. I like to make intriquete and cool projects by combining the worlds of Security, Programming and Hardware. Unique enough?  "
     image: /images/hero.png
