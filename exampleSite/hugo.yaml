@@ -161,7 +161,7 @@ params:
   about:
     enable: true
     title: "Whoami"
-    image: "/images/me.jpg"
+    image: "/images/me.png"
     content: |-
       Experienced Technical Lead and Project Intern with a background in cybersecurity, machine learning, and secure IoT solutions, particularly in research and educational settings. 
       I have demonstrated ability in leading technical teams, building automation tools, and advancing cybersecurity initiatives, including secure network projects with Raspberry Pi and bot development for community management.
