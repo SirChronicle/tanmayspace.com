@@ -228,43 +228,37 @@ params:
       - title: "Master of Science in Cybersecurity"
         school:
           name: "Northeastern University, Boston"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          url: "https://www.northeastern.edu/"
+        date: "2024 - Present"
+        GPA: "3.83 out of 4.00"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          Relevant Coursework
+            - Network Security, Binary Exploitation, Reverse Engineering, Cyberlaw.
+      - title: "Bachelor of Science in Computer Science and Engineering"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "SRM Institute of Science and Technology"
+          url: "https://www.srmist.edu.in/"
+        date: "2020 - 20124"
+        GPA: "8.97 out of 10.00"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Relevant Coursework
+            - Operating Systems, Computer Architecture, Network Security and Offensive Security.
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Hillwoods School"
+          url: "https://www.hillwoodsschool.com/"
+        Percent: "91.2%"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
