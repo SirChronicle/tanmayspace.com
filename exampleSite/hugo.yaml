@@ -238,7 +238,7 @@ params:
         school:
           name: "SRM Institute of Science and Technology"
           url: "https://www.srmist.edu.in/"
-        date: "2020 - 20124"
+        date: "2020 - 2024"
         GPA: "8.97 out of 10.00"
         content: |-
           Relevant Coursework
@@ -251,7 +251,8 @@ params:
         school:
           name: "Hillwoods School"
           url: "https://www.hillwoodsschool.com/"
-        Percent: "91.2%"
+        GPA: "3.7 out of 4.0"
+        date: "2018 - 2020"
         featuredLink:
           enable: false
           url: "https://example.com"
