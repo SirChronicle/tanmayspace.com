@@ -195,12 +195,6 @@ params:
         company: "IPR"
         companyUrl: "https://www.ipr.res.in/"
         date: "Sep 2023 - Nov 2023"
-        content: "My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use."
-
-      - job: "Network Intern"
-        company: "IPR"
-        companyUrl: "https://www.ipr.res.in/"
-        date: "Sep 2023 - Nov 2023"
         featuredLink:
           enable: False
           url: ""
