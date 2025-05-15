@@ -191,6 +191,12 @@ params:
           url: "https://github.com/nullNEU"
         content: "I am currently the Outreach head of the only graduate cybersecurity club at Northeastern University, Boston. I am responsible for inviting people to give talks during club meetings and also outreach to different external organisations. I am currently working on reverse engineering challenges for the next CTF event at Null. "
 
+      - job: "Product Designer"
+        company: "Google"
+        companyUrl: "https://example.com"
+        date: "Feb 2016 - Mar 2017"
+        content: "My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use."
+
       #- job: "Network Intern"
         #company: "Institute for Plasma Research (IPR)"
         #companyUrl: "https://www.ipr.res.in/"
