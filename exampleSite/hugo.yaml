@@ -197,32 +197,33 @@ params:
         date: "Sep 2023 - Nov 2023"
         content: "My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use."
 
-      #- job: "Network Intern"
-        #company: "Institute for Plasma Research (IPR)"
-        #companyUrl: "https://www.ipr.res.in/"
-        #date: "Sep 2023 - Nov 2023"
-        #featuredLink:
-          #enable: true
-          #url: ""
-        #info:
-          #enable: false
-          #content: I worked as a software developer for more than one year in Amazon.
-        #content: |
-          #My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use.
+      - job: "Network Intern"
+        company: "IPR"
+        companyUrl: "https://www.ipr.res.in/"
+        date: "Sep 2023 - Nov 2023"
+        featuredLink:
+          enable: False
+          url: ""
+        info:
+          enable: True
+          content: IPR stands for Institute for Plasma Reasearch
+        content: |
+          My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use.
 
-      #- job: "Associate Cybersecurity and Machine Learning Technical Lead"
-        #company: "Guvi Code Camp, SRMIST"
-        #date: "2021 - 2024"
-        #info:
-          #enable: false
-        #featuredLink:
-          #enable: true
-          #url: "https://github.com/Guvi-CodeCamp-SRM"
-        #content: |
-          #- Co-introduced the cybersecurity domain within the club along with one of the board members.
-          #- Led the development of "EngineerTube" project, enhancing security-focused educational resources
-          #- Hosted "Da Vinci Code" cybersecurity coding event with 50+ participants
-          #- Secured second place in a club-organized hackathon
+      - job: "Associate Cybersecurity and Machine Learning Technical Lead"
+        company: "GCC"
+        date: "2021 - 2024"
+        info:
+          enable: True
+          content: GCC - Guvi Code Camp is a CS club in SRM Institute of Science and Technology
+        featuredLink:
+          enable: true
+          url: "https://github.com/Guvi-CodeCamp-SRM"
+        content: |
+          - Co-introduced the cybersecurity domain within the club along with one of the board members.
+          - Led the development of "EngineerTube" project, enhancing security-focused educational resources
+          - Hosted "Da Vinci Code" cybersecurity coding event with 50+ participants
+          - Secured second place in a club-organized hackathon
 
 
   # Education
