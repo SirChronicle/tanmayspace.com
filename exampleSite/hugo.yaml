@@ -191,32 +191,32 @@ params:
           url: "https://github.com/nullNEU"
         content: "I am currently the Outreach head of the only graduate cybersecurity club at Northeastern University, Boston. I am responsible for inviting people to give talks during club meetings and also outreach to different external organisations. I am currently working on reverse engineering challenges for the next CTF event at Null. "
 
-      - job: "Network Intern"
-        company: "Institute for Plasma Research (IPR)"
-        companyUrl: "https://www.ipr.res.in/"
-        date: "Sep 2023 - Nov 2023"
-        featuredLink:
-          enable: false
-          url: ""
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use.
+      #- job: "Network Intern"
+        #company: "Institute for Plasma Research (IPR)"
+        #companyUrl: "https://www.ipr.res.in/"
+        #date: "Sep 2023 - Nov 2023"
+        #featuredLink:
+          #enable: true
+          #url: ""
+        #info:
+          #enable: false
+          #content: I worked as a software developer for more than one year in Amazon.
+        #content: |
+          #My first internship at a government institute in India. I developed a secured Raspberry Pi access point functioning as a VPN/Personal Router for public Wi-Fi use.
 
-      - job: "Associate Cybersecurity and Machine Learning Technical Lead"
-        company: "Guvi Code Camp, SRMIST"
-        date: "2021 - 2024"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://github.com/Guvi-CodeCamp-SRM"
-        content: |
-          - Co-introduced the cybersecurity domain within the club along with one of the board members.
-          - Led the development of "EngineerTube" project, enhancing security-focused educational resources
-          - Hosted "Da Vinci Code" cybersecurity coding event with 50+ participants
-          - Secured second place in a club-organized hackathon
+      #- job: "Associate Cybersecurity and Machine Learning Technical Lead"
+        #company: "Guvi Code Camp, SRMIST"
+        #date: "2021 - 2024"
+        #info:
+          #enable: false
+        #featuredLink:
+          #enable: true
+          #url: "https://github.com/Guvi-CodeCamp-SRM"
+        #content: |
+          #- Co-introduced the cybersecurity domain within the club along with one of the board members.
+          #- Led the development of "EngineerTube" project, enhancing security-focused educational resources
+          #- Hosted "Da Vinci Code" cybersecurity coding event with 50+ participants
+          #- Secured second place in a club-organized hackathon
 
 
   # Education
