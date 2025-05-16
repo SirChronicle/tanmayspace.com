@@ -157,10 +157,10 @@ params:
         #- icon: /fav.png
           #url: "https://example.com"
 
-  # WhoamI
+  # whoami
   about:
     enable: true
-    title: "WhoamI"
+    title: "whoami"
     image: "/images/me.png"
     content: |-
       Experienced Technical Lead and Project Intern with a background in cybersecurity, machine learning, and secure IoT solutions, particularly in research and educational settings. 
